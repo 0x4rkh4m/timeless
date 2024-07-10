@@ -1,0 +1,6 @@
+[submodule "timeless-api"]
+	path = timeless-api
+	url = https://github.com/0x4rkh4m/timeless-api
+[submodule "timeless-client"]
+	path = timeless-client
+	url = https://github.com/0x4rkh4m/timeless-client
